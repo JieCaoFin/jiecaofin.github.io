@@ -26,12 +26,12 @@ profile_picture:
 
 <p>
 <font color="SteelBlue" face="微软正黑" size=4><a href="https://www.dropbox.com/s/rhd9f8esipm2cnx/JieCao_CVJuly2022.pdf?dl=0">简历</a>|
-<a href="https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012509">复旦网页</a>|
-<a href="https://hk.linkedin.com/in/xintong-zhan">领英</a>|<a href="https://orcid.org/0000-0003-2787-4464">ORCiD</a></font>
+<a href="https://www.polyu.edu.hk/af/people/academic-staff/prof-jie-cao/">学校网页</a>|
+<a href="https://hk.linkedin.com/in/jie-jay-cao">领英</a>|<a href="https://orcid.org/0000-0002-5245-8895">ORCiD</a></font>
 </p>
 <p>
-<font color="SteelBlue" face="微软正黑" size=4><a href="https://scholar.google.com/citations?user=2zRv64wAAAAJ&hl=en">Google Scholar个人页面</a>|
-<a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2108195">SSRN个人页面</a></font>
+<font color="SteelBlue" face="微软正黑" size=4><a href="https://scholar.google.com/citations?user=oysAu6wAAAAJ&hl=en">Google Scholar个人页面</a>|
+<a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=549950">SSRN个人页面</a></font>
 </p>
 
 <p>
