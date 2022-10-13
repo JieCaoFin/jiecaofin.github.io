@@ -93,7 +93,7 @@ profile_picture:
 <font color="black" face="微软正黑" size=3>2: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1291626">Idiosyncratic Risk, Costly Arbitrage, and the Cross-Section of Stock Returns</a> (with Bing Han),  2016, Journal of Banking and Finance 73, 1-15.</font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>3: <a href="https://pubsonline.informs.org/doi/10.1287/mnsc.2020.3803">Alliances and Return Predictability </a> (with Tarun Chordia and Chen Lin), 2016, Journal of Financial and Quantitative Analysis 51, 1689-1717. </font>
+<font color="black" face="微软正黑" size=3>3: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2409609">Alliances and Return Predictability </a> (with Tarun Chordia and Chen Lin), 2016, Journal of Financial and Quantitative Analysis 51, 1689-1717. </font>
 </p>
 <p>
 <font color="black" face="微软正黑" size=3>4: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=628683">Institutional Investment Constraints and Stock Prices</a>(with Bing Han and Qinghai Wang), 2017, Journal of Financial and Quantitative Analysis 52, 465-489.</font>
