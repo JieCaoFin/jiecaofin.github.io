@@ -63,6 +63,9 @@ profile_picture:
 <font color="black" face="微软正黑" size=3>2004 – 2009,	 德克萨斯大学奥斯汀分校,		金融学  	博士学位</font>
 </p>
 <p>
+<font color="black" face="微软正黑" size=3>2002 – 2004,	 莱斯大学,  经济学  博士候选人</font>
+</p>
+<p>
 <font color="black" face="微软正黑" size=3>1998-2002, 北京大学, 经济学	 学士学位</font>
 </p>
 
