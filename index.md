@@ -185,16 +185,16 @@ profile_picture:
 <font color="black" face="微软正黑" size=3>2017.09,	学术竞赛奖,			芝加哥数量联盟年会 (CQA),					芝加哥</font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>2016.11,	学术竞赛奖,				芝加哥数量联盟亚洲年会 (CQAsia),				香港</font>
+<font color="black" face="微软正黑" size=3>2016.11,	学术竞赛奖,				芝加哥数量联盟(亚洲)年会 (CQAsia),				香港</font>
 </p>
 <p>
 <font color="black" face="微软正黑" size=3>2015.12,	最佳公司金融论文奖,			第28届澳大利亚金融与银行会议 (AFBC),			悉尼</font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>2014.12,	杰出论文奖,			第9届亚太区金融市场国际会议 (CAFM),			首尔</font>
+<font color="black" face="微软正黑" size=3>2014.11,	学术竞赛奖,			芝加哥数量联盟(亚洲)年会 (CQAsia),     香港</font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>2014.12,	最佳论文二等奖,		第22届证券暨金融市场理论与实务研讨会 (SFM),	高雄</font>
+<font color="black" face="微软正黑" size=3>2009.12,	最佳论文二等奖,		第22届证券暨金融市场理论与实务研讨会 (SFM),	高雄</font>
 </p>
 
 
