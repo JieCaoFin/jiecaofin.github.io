@@ -98,6 +98,11 @@ profile_picture:
 <p>
 <b><font color="SteelBlue" face="微软正黑" size=4 class="aa">本硕博培养</font></b>
 </p>
+
+<p>
+<font color="black" face="微软正黑" size=3>香港中文大学</font>
+</p>
+
 <p>
 <font color="black" face="微软正黑" size=3>2022&nbsp 章维明&nbsp 香港中文大学金融学博士毕业去向：西班牙IE商学院助理教授</font>
 </p>
