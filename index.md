@@ -111,7 +111,7 @@ profile_picture:
 <font color="black" face="微软正黑" size=3>2017&nbsp 柯&nbsp&nbsp 赛&nbsp 香港中文大学金融学硕士&nbsp 毕业去向：美国休斯顿大学金融学博士 </font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>2016&nbsp 战昕彤，香港中文大学金融学博士&nbsp 毕业去向：荷兰伊拉斯姆斯大学经济学院助理教授 | 现任复旦大学管理学院李达三讲席教授</font>
+<font color="black" face="微软正黑" size=3>2016&nbsp 战昕彤&nbsp 香港中文大学金融学博士&nbsp 毕业去向：荷兰伊拉斯姆斯大学经济学院助理教授 | 现任复旦大学管理学院李达三讲席教授</font>
 </p>
 
 <p>
