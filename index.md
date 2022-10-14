@@ -27,7 +27,7 @@ profile_picture:
 <font color="SteelBlue" face="微软正黑" size=4><a href="https://www.dropbox.com/s/rhd9f8esipm2cnx/JieCao_CVJuly2022.pdf?dl=0">简历</a>|
 <a href="https://www.polyu.edu.hk/af/people/academic-staff/prof-jie-cao/">学校网页</a>|
 <a href="https://hk.linkedin.com/in/jie-jay-cao">领英</a>|<a href="https://orcid.org/0000-0002-5245-8895"> ORCiD</a>|
-<a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=549950">SSRN个人页面</a>
+<a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=549950">SSRN个人页面 </a>
 </p>
 
 <p>
@@ -90,36 +90,36 @@ profile_picture:
 </p>
 
 <p>
-<font color="black" face="微软正黑" size=3>2022&nbsp 章维明&nbsp 香港中文大学金融学博士&nbsp 毕业去向：西班牙IE商学院助理教授</font>
+<font color="black" face="微软正黑" size=3>2022 章维明 香港中文大学金融学博士 毕业去向：西班牙IE商学院助理教授</font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>2022&nbsp 宋琳甲&nbsp 香港中文大学金融及房地产博士&nbsp 毕业去向：厦门大学管理学院助理教授</font>
+<font color="black" face="微软正黑" size=3>2022 宋琳甲 香港中文大学金融及房地产博士 毕业去向：厦门大学管理学院助理教授</font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>2021&nbsp 徐&nbsp&nbsp 婕&nbsp 香港中文大学金融学博士&nbsp 毕业去向：工银国际（香港）</font>
+<font color="black" face="微软正黑" size=3>2021 徐 婕 香港中文大学金融学博士 毕业去向：工银国际（香港）</font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>2018&nbsp 柯&nbsp&nbsp 赛&nbsp 香港中文大学金融学硕士&nbsp 毕业去向：美国休斯顿大学金融学博士 </font>
-</p>
-
-<p>
-<font color="black" face="微软正黑" size=3>2017&nbsp 肖战兵&nbsp 香港中文大学金融学硕士&nbsp 毕业去向：加拿大英属哥伦比亚大学金融学博士 </font>
+<font color="black" face="微软正黑" size=3>2018 柯 赛 香港中文大学金融学硕士 毕业去向：美国休斯顿大学金融学博士 </font>
 </p>
 
 <p>
-<font color="black" face="微软正黑" size=3>2016&nbsp 战昕彤&nbsp 香港中文大学金融学博士&nbsp 毕业去向：荷兰伊拉斯姆斯大学经济学院助理教授 | 现任复旦大学管理学院李达三讲席教授</font>
+<font color="black" face="微软正黑" size=3>2017&nbsp 肖战兵&nbsp 香港中文大学金融学硕士毕业去向：加拿大英属哥伦比亚大学金融学博士 </font>
+</p>
+
+<p>
+<font color="black" face="微软正黑" size=3>2016战昕彤 香港中文大学金融学博士毕业去向：荷兰伊拉斯姆斯大学经济学院助理教授 | 现任复旦大学管理学院李达三讲席教授</font>
 </p>
 
 
 <p>
-<font color="black" face="微软正黑" size=3>2013&nbsp 沈&nbsp&nbsp 琳&nbsp 香港中文大学计量金融及风险管理学士&nbsp 毕业去向：美国沃顿商学院金融学博士 | 现任欧洲工商管理学院(INSEAD)助理教授 </font>
+<font color="black" face="微软正黑" size=3>2013 沈 琳 香港中文大学计量金融及风险管理学士 毕业去向：美国沃顿商学院金融学博士 | 现任欧洲工商管理学院(INSEAD)助理教授 </font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>2012&nbsp 金&nbsp&nbsp 涌&nbsp 香港中文大风险管理学硕士&nbsp 毕业去向：美国佛罗里达大学金融学博士 | 现任香港理工大学会计与金融学院副教授 </font>
+<font color="black" face="微软正黑" size=3>2012 金 涌 香港中文大风险管理学硕士 毕业去向：美国佛罗里达大学金融学博士 | 现任香港理工大学会计与金融学院副教授 </font>
 </p>
 
 <p>
-<font color="black" face="微软正黑" size=3>2012&nbsp 刘方舟&nbsp 香港中文大金融计量学士&nbsp 毕业去向：美国印第安纳大学金融学博士 | 现任上海财经大学金融学院助理教授 </font>
+<font color="black" face="微软正黑" size=3>2012 刘方舟 香港中文大金融计量学士 毕业去向：美国印第安纳大学金融学博士 | 现任上海财经大学金融学院助理教授 </font>
 </p>
 
 <p>
