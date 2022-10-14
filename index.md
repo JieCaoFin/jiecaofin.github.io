@@ -176,7 +176,7 @@ profile_picture:
 <font color="black" face="微软正黑" size=3>2019.11,	AAM-CAMRI 资产管理奖,      《亚洲资产管理杂志》与新国大资产管理研究中心,	新加坡</font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>2018.12,	最佳论文二等奖,			第26届证券暨金融市场理论与实务研讨会 (SFM),	高雄</font>
+<font color="black" face="微软正黑" size=3>2018.12,	最佳论文奖,			第26届证券暨金融市场理论与实务研讨会 (SFM),	高雄</font>
 </p>
 <p>
 <font color="black" face="微软正黑" size=3>2018.05,	ETF学术研究奖,				巴黎第九大学与领先资产管理公司,				巴黎</font>
@@ -194,7 +194,7 @@ profile_picture:
 <font color="black" face="微软正黑" size=3>2014.11,	学术竞赛奖,			芝加哥数量联盟(亚洲)年会 (CQAsia),     香港</font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>2009.12,	最佳论文二等奖,		第22届证券暨金融市场理论与实务研讨会 (SFM),	高雄</font>
+<font color="black" face="微软正黑" size=3>2009.12,	最佳论文奖,		第22届证券暨金融市场理论与实务研讨会 (SFM),	高雄</font>
 </p>
 
 
