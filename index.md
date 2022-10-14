@@ -119,7 +119,7 @@ profile_picture:
 </p>
 
 <p>
-<font color="black" face="微软正黑" size=3>2012&nbsp 刘方舟&nbsp 香港中文大金融计量学士&nbsp 毕业去向：美国印第安纳大学金融学博士 | 现任上海财经大学助理教授 </font>
+<font color="black" face="微软正黑" size=3>2012&nbsp 刘方舟&nbsp 香港中文大金融计量学士&nbsp 毕业去向：美国印第安纳大学金融学博士 | 现任上海财经大学金融学院助理教授 </font>
 </p>
 
 <p>
