@@ -154,7 +154,7 @@ profile_picture:
 <font color="black" face="微软正黑" size=3>6: <a href="https://pubsonline.informs.org/doi/10.1287/mnsc.2020.3803"> The Calendar Effects of the Idiosyncratic-Volatility Puzzle: A Tale of Two Days?</a> (with Tarun Chordia and Xintong Zhan), 2021, Management Science 67, 7866-7887.</font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>7: <a href="https://academic.oup.com/rfs/article-abstract/35/3/1394/6294944?redirectedFrom=fulltext&login=false"> Option Return Predictability</a> (with Bing Han, Xintong Zhan, and Qing Tong), 2022, Review of Financial Studies 35, 1394-1442.</font>
+<font color="black" face="微软正黑" size=3>7: <a href="https://academic.oup.com/rfs/article-abstract/35/3/1394/6294944?redirectedFrom=fulltext&login=false"> Option Return Predictability</a> (with Xintong Zhan, Bing Han, and Qing Tong), 2022, Review of Financial Studies 35, 1394-1442.</font>
 </p>
 <p>
 <font color="black" face="微软正黑" size=3>8: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3400694"> Implied Volatility Changes and Corporate Bond Returns</a> (with  Amit Goyal, Xiao Xiao, and Xintong Zhan), 2022, forthcoming at Management Science.</font>
