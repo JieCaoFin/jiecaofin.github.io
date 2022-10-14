@@ -105,7 +105,7 @@ profile_picture:
 <font color="black" face="微软正黑" size=3>2022， 宋琳甲，香港中文大学金融及房地产博士，毕业去向：厦门大学管理学院助理教授</font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>2021， 徐&nbsp婕，香港中文大学金融学博士，毕业去向：工银国际（香港）</font>
+<font color="black" face="微软正黑" size=3>2021， 徐&nbsp&nbsp婕，香港中文大学金融学博士，毕业去向：工银国际（香港）</font>
 </p>
 <p>
 <font color="black" face="微软正黑" size=3>2017， 柯  赛，香港中文大学金融学硕士，毕业去向：美国休斯顿大学金融学博士 </font>
