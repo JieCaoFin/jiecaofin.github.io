@@ -103,7 +103,7 @@ profile_picture:
 </p>
 
 <p>
-<font color="black" face="微软正黑" size=3>2017, 肖战兵&nbsp 香港中文大学金融学硕士毕业去向：加拿大英属哥伦比亚大学金融学博士 </font>
+<font color="black" face="微软正黑" size=3>2017, 肖战兵 香港中文大学金融学硕士毕业去向：加拿大英属哥伦比亚大学金融学博士 </font>
 </p>
 
 <p>
