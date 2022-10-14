@@ -23,7 +23,6 @@ profile_picture:
 <font color="SteelBlue" face="微软正黑" size=4><a href="mailto: jie.cao@polyu.edu.hk">jie.cao@polyu.edu.hk</a>|<a href="mailto: jiecaopku@hotmail.com"> jiecaopku@hotmail.com</a></font>
 </p>
 
-
 <p>
 <font color="SteelBlue" face="微软正黑" size=4><a href="https://www.dropbox.com/s/rhd9f8esipm2cnx/JieCao_CVJuly2022.pdf?dl=0">简历</a>|
 <a href="https://www.polyu.edu.hk/af/people/academic-staff/prof-jie-cao/">学校网页</a>|
