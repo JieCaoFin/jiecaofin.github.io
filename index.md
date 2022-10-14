@@ -82,7 +82,7 @@ profile_picture:
 <font color="black" face="微软正黑" size=3>2021 – 至今,  香港金融管理局金融研究院谘询委员</font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>2018 – 至今,  芝加哥数量联盟（亚洲）协会理事</font>
+<font color="black" face="微软正黑" size=3>2018 – 至今,  芝加哥数量联盟(亚洲)协会理事</font>
 </p>
 
 <p>
