@@ -108,7 +108,7 @@ profile_picture:
 <font color="black" face="微软正黑" size=3>2021， 徐  婕，香港中文大学金融学博士，毕业去向：工银国际（香港）</font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>2021， 战昕彤，香港中文大学金融学博士，毕业去向：荷兰伊拉斯姆斯大学经济学院助理教授</font>
+<font color="black" face="微软正黑" size=3>2021， 战昕彤，香港中文大学金融学博士，毕业去向：荷兰伊拉斯姆斯大学经济学院助理教授 | 现任复旦大学管理学院李达三讲席教授</font>
 </p>
 
 <p>
