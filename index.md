@@ -25,13 +25,13 @@ profile_picture:
 
 <p>
 <font color="SteelBlue" face="微软正黑" size=4><a href="https://www.dropbox.com/s/rhd9f8esipm2cnx/JieCao_CVJuly2022.pdf?dl=0" target="_blank">简历</a>|
-<a href="https://www.polyu.edu.hk/af/people/academic-staff/prof-jie-cao/">学校网页</a>|
-<a href="https://hk.linkedin.com/in/jie-jay-cao">领英</a>|<a href="https://orcid.org/0000-0002-5245-8895"> ORCiD</a>|
-<a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=549950">SSRN个人页面 </a></font>
+<a href="https://www.polyu.edu.hk/af/people/academic-staff/prof-jie-cao/" target="_blank">学校网页</a>|
+<a href="https://hk.linkedin.com/in/jie-jay-cao">领英</a>|<a href="https://orcid.org/0000-0002-5245-8895" target="_blank"> ORCiD</a>|
+<a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=549950" target="_blank">SSRN个人页面 </a></font>
 </p>
 
 <p>
-<a href="https://sites.google.com/site/jiejaycao">
+<a href="https://sites.google.com/site/jiejaycao" target="_blank">
 <font color="Blue" face="微软正黑" size=4>G</font><font color="Red" face="微软正黑" size=4>o</font><font color="Orange" face="微软正黑" size=4>o</font><font color="Blue" face="微软正黑" size=4>g</font><font color="Green" face="微软正黑" size=4>l</font><font color="Red" face="微软正黑" size=4>e</font>
 <font color="Black" face="微软正黑" size=4>Site英文个人网页</font>
 </a>
@@ -126,34 +126,34 @@ profile_picture:
 <b><font color="SteelBlue" face="微软正黑" size=4 class="aa">论文发表</font></b>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>1: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2409609">Cross Section of Option Returns and Idiosyncratic Stock Volatility</a> (with Bing Han), 2013, <strong> Journal of Financial Economics </strong> 108, 231-249.</font>
+<font color="black" face="微软正黑" size=3>1: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2409609" target="_blank">Cross Section of Option Returns and Idiosyncratic Stock Volatility</a> (with Bing Han), 2013, <strong> Journal of Financial Economics </strong> 108, 231-249.</font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>2: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1291626">Idiosyncratic Risk, Costly Arbitrage, and the Cross-Section of Stock Returns</a> (with Bing Han),  2016, <strong> Journal of Banking and Finance</strong> 73, 1-15.</font>
+<font color="black" face="微软正黑" size=3>2: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1291626" target="_blank">Idiosyncratic Risk, Costly Arbitrage, and the Cross-Section of Stock Returns</a> (with Bing Han),  2016, <strong> Journal of Banking and Finance</strong> 73, 1-15.</font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>3: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2409609">Alliances and Return Predictability </a> (with Tarun Chordia and Chen Lin), 2016, <strong> Journal of Financial and Quantitative Analysis</strong> 51, 1689-1717. </font>
+<font color="black" face="微软正黑" size=3>3: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2409609" target="_blank">Alliances and Return Predictability </a> (with Tarun Chordia and Chen Lin), 2016, <strong> Journal of Financial and Quantitative Analysis</strong> 51, 1689-1717. </font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>4: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=628683">Institutional Investment Constraints and Stock Prices</a>(with Bing Han and Qinghai Wang), 2017, <strong> Journal of Financial and Quantitative Analysis</strong> 52, 465-489.</font>
+<font color="black" face="微软正黑" size=3>4: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=628683" target="_blank">Institutional Investment Constraints and Stock Prices</a>(with Bing Han and Qinghai Wang), 2017, <strong> Journal of Financial and Quantitative Analysis</strong> 52, 465-489.</font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>5: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2634100">Peer Effects of Corporate Social Responsibility </a> (with Hao Liang and Xintong Zhan), 2019, <strong> Management Science</strong> 65, 5487–5503.</font>
+<font color="black" face="微软正黑" size=3>5: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2634100" target="_blank">Peer Effects of Corporate Social Responsibility </a> (with Hao Liang and Xintong Zhan), 2019, <strong> Management Science</strong> 65, 5487–5503.</font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>6: <a href="https://pubsonline.informs.org/doi/10.1287/mnsc.2020.3803"> The Calendar Effects of the Idiosyncratic-Volatility Puzzle: A Tale of Two Days?</a> (with Tarun Chordia and Xintong Zhan), 2021, <strong> Management Science</strong> 67, 7866-7887.</font>
+<font color="black" face="微软正黑" size=3>6: <a href="https://pubsonline.informs.org/doi/10.1287/mnsc.2020.3803" target="_blank"> The Calendar Effects of the Idiosyncratic-Volatility Puzzle: A Tale of Two Days?</a> (with Tarun Chordia and Xintong Zhan), 2021, <strong> Management Science</strong> 67, 7866-7887.</font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>7: <a href="https://academic.oup.com/rfs/article-abstract/35/3/1394/6294944?redirectedFrom=fulltext&login=false"> Option Return Predictability</a> (with Xintong Zhan, Bing Han, and Qing Tong), 2022, <strong> Review of Financial Studies</strong> 35, 1394-1442.</font>
+<font color="black" face="微软正黑" size=3>7: <a href="https://academic.oup.com/rfs/article-abstract/35/3/1394/6294944?redirectedFrom=fulltext&login=false" target="_blank"> Option Return Predictability</a> (with Xintong Zhan, Bing Han, and Qing Tong), 2022, <strong> Review of Financial Studies</strong> 35, 1394-1442.</font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>8: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3400694"> Implied Volatility Changes and Corporate Bond Returns</a> (with  Amit Goyal, Xiao Xiao, and Xintong Zhan), 2022, forthcoming at <strong> Management Science</strong>.</font>
+<font color="black" face="微软正黑" size=3>8: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3400694" target="_blank"> Implied Volatility Changes and Corporate Bond Returns</a> (with  Amit Goyal, Xiao Xiao, and Xintong Zhan), 2022, forthcoming at <strong> Management Science</strong>.</font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>9: <a href="https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/article/abs/esg-preference-institutional-trading-and-stock-return-patterns/6FE00808FC61893DF3F9D983136BD8B3">ESG Preference, Mutual Fund Trading, and Stock Return Patterns</a> (with Sheridan Titman, Xintong Zhan, and Weiming Zhang), 2022, forthcoming at <strong> Journal of Financial and Quantitative Analysis</strong>.</font>
+<font color="black" face="微软正黑" size=3>9: <a href="https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/article/abs/esg-preference-institutional-trading-and-stock-return-patterns/6FE00808FC61893DF3F9D983136BD8B3" target="_blank">ESG Preference, Mutual Fund Trading, and Stock Return Patterns</a> (with Sheridan Titman, Xintong Zhan, and Weiming Zhang), 2022, forthcoming at <strong> Journal of Financial and Quantitative Analysis</strong>.</font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>10: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3788744">Option Price Implied Information and REIT Returns</a> (with Bing Han, Linjia Song, and Xintong Zhan), 2022, accepted with minor revision at <strong> Journal of Empirical Finance</strong>.</font>
+<font color="black" face="微软正黑" size=3>10: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3788744" target="_blank">Option Price Implied Information and REIT Returns</a> (with Bing Han, Linjia Song, and Xintong Zhan), 2022, accepted with minor revision at <strong> Journal of Empirical Finance</strong>.</font>
 </p>
 
 
