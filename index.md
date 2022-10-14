@@ -13,6 +13,9 @@ profile_picture:
 <font color="Black" face="微软正黑" size=4 class="aa">金融学教授</font>
 </p>
 <p>
+<font color="Black" face="微软正黑" size=4 class="aa">哲学博士项目总监</font>
+</p>
+<p>
 <font color="Black" face="微软正黑" size=4 class="aa">香港理工大学会计与金融学院</font>
 </p>
 <p>
