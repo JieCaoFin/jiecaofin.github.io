@@ -10,7 +10,7 @@ profile_picture:
 <b><font color="Black" face="微软正黑" size=5 class="aa">曹杰</font></b>
 </p>
 <p>
-<font color="Black" face="微软正黑" size=4 class="aa">金融学教授</font>
+<font color="Black" face="微软正黑" size=4 class="aa">金融学教授 | 哲学博士项目总监</font>
 </p>
 <p>
 <font color="Black" face="微软正黑" size=4 class="aa">哲学博士项目总监</font>
