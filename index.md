@@ -73,7 +73,7 @@ profile_picture:
 </p>
 
 <p>
-<b><font color="SteelBlue" face="微软正黑" size=4 class="aa">教育经历</font></b>
+<b><font color="SteelBlue" face="微软正黑" size=4 class="aa">工作经历</font></b>
 </p>
 <p>
 <font color="black" face="微软正黑" size=3>2022 至今,       香港理工大学会计与金融学院,				        金融学教授</font>
