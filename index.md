@@ -63,13 +63,13 @@ profile_picture:
 <b><font color="SteelBlue" face="微软正黑" size=4 class="aa">教育背景</font></b>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>2004 – 2009,	 美国德克萨斯大学奥斯汀分校,		金融学博士</font>
+<font color="black" face="微软正黑" size=3>2004 – 2009,	 美国德克萨斯大学奥斯汀分校金融系,		金融学博士</font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>2002 – 2004,	 美国莱斯大学,  经济学博士候选人</font>
+<font color="black" face="微软正黑" size=3>2002 – 2004,	 美国莱斯大学经济系,  经济学博士候选人</font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>1998 – 2002, 北京大学, 经济学学士</font>
+<font color="black" face="微软正黑" size=3>1998 – 2002, 北京大学经济学院, 经济学学士</font>
 </p>
 
 
@@ -78,7 +78,7 @@ profile_picture:
 <b><font color="SteelBlue" face="微软正黑" size=4 class="aa">学术经历</font></b>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>2022.07 至今,	   香港理工大学会计与金融学院,				        金融学教授</font>
+<font color="black" face="微软正黑" size=3>2022.07 至今,       香港理工大学会计与金融学院,				        金融学教授</font>
 </p>
 <p>
 <font color="black" face="微软正黑" size=3>2016.07 – 2022.07,  香港中文大学商学院,				       金融学副教授</font>
