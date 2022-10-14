@@ -19,7 +19,7 @@ profile_picture:
 <font color="Black" face="微软正黑" size=4 class="aa">电话: +852 2766-7099</font>
 </p>
 <p>
-<font color="Black" face="微软正黑" size=4>Email:</font>
+<font color="Black" face="微软正黑" size=4>电邮:</font>
 <font color="SteelBlue" face="微软正黑" size=4><a href="mailto: jie.cao@polyu.edu.hk">jie.cao@polyu.edu.hk</a>|<a href="mailto: jiecaopku@hotmail.com"> jiecaopku@hotmail.com</a></font>
 </p>
 
