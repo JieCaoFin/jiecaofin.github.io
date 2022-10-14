@@ -81,7 +81,7 @@ profile_picture:
 <font color="black" face="微软正黑" size=3>2016.07 – 2022.07,  香港中文大学商学院,				       金融学副教授</font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>2009.08 – 2016.07,  香港中文大学,  金融学助理教授</font>
+<font color="black" face="微软正黑" size=3>2009.08 – 2016.07,  香港中文大学商学院,  金融学助理教授</font>
 </p>
 
 
