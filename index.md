@@ -72,7 +72,18 @@ profile_picture:
 <font color="black" face="微软正黑" size=3>1998 – 2002, 北京大学经济学院, 经济学学士</font>
 </p>
 
-
+<p>
+<b><font color="SteelBlue" face="微软正黑" size=4 class="aa">社会职务</font></b>
+</p>
+<p>
+<font color="black" face="微软正黑" size=3>2022 – 至今,     香港证监会(SFC)学术评审谘询委员会委员</font>
+</p>
+<p>
+<font color="black" face="微软正黑" size=3>2021 – 至今,  香港金融管理局金融研究院咨询委员</font>
+</p>
+<p>
+<font color="black" face="微软正黑" size=3>2018– 至今,  芝加哥数量联盟（亚洲）协会理事</font>
+</p>
 
 <p>
 <b><font color="SteelBlue" face="微软正黑" size=4 class="aa">学术经历</font></b>
@@ -86,8 +97,6 @@ profile_picture:
 <p>
 <font color="black" face="微软正黑" size=3>2009.08 – 2016.07,  香港中文大学商学院,  金融学助理教授</font>
 </p>
-
-
 
 <p>
 <b><font color="SteelBlue" face="微软正黑" size=4 class="aa">论文发表</font></b>
