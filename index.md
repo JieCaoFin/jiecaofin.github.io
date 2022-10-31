@@ -84,6 +84,9 @@ profile_picture:
 <p>
 <font color="black" face="微软正黑" size=3>2018 – 至今,  芝加哥数量联盟(亚洲)协会理事</font>
 </p>
+<p>
+<font color="black" face="微软正黑" size=3>2022 – 至今,  FINANCIAL MANAGEMENT《金融管理》副主编</font>
+</p>
 
 <p>
 <b><font color="SteelBlue" face="微软正黑" size=4 class="aa">本硕博培养</font></b>
