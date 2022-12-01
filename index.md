@@ -24,7 +24,7 @@ profile_picture:
 </p>
 
 <p>
-<font color="SteelBlue" face="微软正黑" size=4><a href="jiecaofin.github.io/JieCao_Dec2022CV.pdf" target="_blank">简历</a>|
+<font color="SteelBlue" face="微软正黑" size=4><a href="jiecaofin.github.io/JieCao_CVDec2022.pdf" target="_blank">简历</a>|
 <a href="https://www.polyu.edu.hk/af/people/academic-staff/prof-jie-cao/" target="_blank">学校网页</a>|
 <a href="https://hk.linkedin.com/in/jie-jay-cao">领英</a>|<a href="https://orcid.org/0000-0002-5245-8895" target="_blank"> ORCiD</a>|
 <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=549950" target="_blank">SSRN个人页面 </a></font>
