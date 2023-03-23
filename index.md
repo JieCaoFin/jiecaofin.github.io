@@ -151,19 +151,20 @@ profile_picture:
 <p>
 <font color="black" face="微软正黑" size=3>7: <a href="https://academic.oup.com/rfs/article-abstract/35/3/1394/6294944?redirectedFrom=fulltext&login=false" target="_blank"> Option Return Predictability</a> (with Xintong Zhan, Bing Han, and Qing Tong), 2022, <strong> Review of Financial Studies</strong> 35, 1394-1442.</font>
 </p>
+
 <p>
-<font color="black" face="微软正黑" size=3>8: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3400694" target="_blank"> Implied Volatility Changes and Corporate Bond Returns</a> (with  Amit Goyal, Xiao Xiao, and Xintong Zhan), 2022, forthcoming at <strong> Management Science</strong>.</font>
-</p>
-<p>
-<font color="black" face="微软正黑" size=3>9: <a href="https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/article/abs/esg-preference-institutional-trading-and-stock-return-patterns/6FE00808FC61893DF3F9D983136BD8B3" target="_blank">ESG Preference, Mutual Fund Trading, and Stock Return Patterns</a> (with Sheridan Titman, Xintong Zhan, and Weiming Zhang), 2022, forthcoming at <strong> Journal of Financial and Quantitative Analysis</strong>.</font>
-</p>
-<p>
-<font color="black" face="微软正黑" size=3>10: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3788744" target="_blank">Option Trading and Stock Price Informativeness</a> (with Amit Goyal, Sai Ke, and Xintong Zhan), 2022, accepted at <strong> Journal of Financial and Quantitative Analysis</strong>.</font>
-</p>
-<p>
-<font color="black" face="微软正黑" size=3>11: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3401806" target="_blank">Option Price Implied Information and REIT Returns</a> (with Bing Han, Linjia Song, and Xintong Zhan), 2022, accepted at <strong> Journal of Empirical Finance</strong>.</font>
+<font color="black" face="微软正黑" size=3>11: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3401806" target="_blank">Option Price Implied Information and REIT Returns</a> (with Bing Han, Linjia Song, and Xintong Zhan), 2023, <strong> Journal of Empirical Finance</strong> 71, 13-28.</font>
 </p>
 
+<p>
+<font color="black" face="微软正黑" size=3>8: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3400694" target="_blank"> Implied Volatility Changes and Corporate Bond Returns</a> (with  Amit Goyal, Xiao Xiao, and Xintong Zhan), 2023, <strong> Management Science</strong> 69, 1375-1397.</font>
+</p>
+<p>
+<font color="black" face="微软正黑" size=3>9: <a href="https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/article/abs/esg-preference-institutional-trading-and-stock-return-patterns/6FE00808FC61893DF3F9D983136BD8B3" target="_blank">ESG Preference, Mutual Fund Trading, and Stock Return Patterns</a> (with Sheridan Titman, Xintong Zhan, and Weiming Zhang), 2023, forthcoming at <strong> Journal of Financial and Quantitative Analysis</strong>.</font>
+</p>
+<p>
+<font color="black" face="微软正黑" size=3>10: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3788744" target="_blank">Option Trading and Stock Price Informativeness</a> (with Amit Goyal, Sai Ke, and Xintong Zhan), 2023, accepted at <strong> Journal of Financial and Quantitative Analysis</strong>.</font>
+</p>
 
 <p>
 <b><font color="SteelBlue" face="微软正黑" size=4 class="aa">科研获奖</font></b>
