@@ -43,9 +43,9 @@ profile_picture:
 <b><font color="SteelBlue" face="微软正黑" size=4 class="aa">个人简介</font></b>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>曹杰教授现任香港理工大学会计与金融学院正教授及哲学博士 (Ph.D.) 项目总监，他亦担任香港证监会学术评审谘询委员会委员，香港金融管理局金融研究院谘询委员，以及芝加哥数量联盟（亚洲）协会理事。在加入香港理工大学之前，曹杰教授曾执教于香港中文大学商学院并获得终身教职。曹杰教授于2002年获得北京大学经济学学士学位，并于2009年在美国德克萨斯大学奥斯汀分校获得金融学博士学位。他的研究领域为实证资产定价，金融衍生品，以及可持续金融等。他的研究成果见诸于 Journal of Financial Economics, Review of Financial Studies, Journal of Financial and Quantitative Analysis, Management Science 等顶级金融学及管理学期刊。他多次获得香港研究局的项目资助，并获得瑞士日内瓦财富研究院，加拿大衍生品研究院等多个海外科研机构的研究支持。 
+<font color="black" face="微软正黑" size=3>曹杰教授现任香港理工大学会计与金融学院正教授及哲学博士 (Ph.D.) 项目总监，他亦担任香港证监会学术评审谘询委员会委员，香港金融管理局金融研究院谘询委员，以及芝加哥数量联盟（亚洲）协会理事。在加入香港理工大学之前，曹杰教授曾执教于香港中文大学商学院并获得终身教职。曹杰教授于2002年获得北京大学经济学学士学位，并于2009年在美国德克萨斯大学奥斯汀分校获得金融学博士学位。他的研究领域为实证资产定价，金融衍生品，以及可持续金融等。他的研究成果见诸于 Journal of Financial Economics, Review of Financial Studies, Journal of Financial and Quantitative Analysis, Management Science 等顶级金融学及管理学期刊。他多次获得香港研究局（RGC）的项目资助，并获得瑞士日内瓦财富研究院，加拿大衍生品研究院等多个海外科研机构的研究支持。 
 
-曹杰教授目前担任知名期刊 International Review of Finance 的主编，国际重要期刊 Financial Management 以及知名期刊 China Accounting and Finance Review 的编委。他亦承担多种国际一流期刊的评审工作，并担任香港研究局 (RGC)及加拿大社会科学和人文科学研究理事会(SSHRC)的外部评审专家。
+曹杰教授目前担任知名期刊 International Review of Finance 的主编，国际重要期刊 Financial Management 以及知名期刊 China Accounting and Finance Review 的编委。他亦承担多种国际一流期刊的评审工作，并担任香港研究局及加拿大社会科学和人文科学研究理事会(SSHRC)的外部评审专家。
 </font>
 </p>
 
