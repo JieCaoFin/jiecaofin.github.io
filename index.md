@@ -172,7 +172,7 @@ profile_picture:
 <font color="black" face="微软正黑" size=3>10: <a href="https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/article/abs/esg-preference-institutional-trading-and-stock-return-patterns/6FE00808FC61893DF3F9D983136BD8B3" target="_blank">ESG Preference, Mutual Fund Trading, and Stock Return Patterns</a> (with Sheridan Titman, Xintong Zhan, and Weiming Zhang), 2023, <strong> Journal of Financial and Quantitative Analysis</strong> 58, 1843-1877.</font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>11: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3788744" target="_blank">Option Trading and Stock Price Informativeness</a> (with Amit Goyal, Sai Ke, and Xintong Zhan), 2023, accepted at <strong> Journal of Financial and Quantitative Analysis</strong>.</font>
+<font color="black" face="微软正黑" size=3>11: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3788744" target="_blank">Option Trading and Stock Price Informativeness</a> (with Amit Goyal, Sai Ke, and Xintong Zhan), 2023, forthcoming at <strong> Journal of Financial and Quantitative Analysis</strong>.</font>
 </p>
 
 <p>
