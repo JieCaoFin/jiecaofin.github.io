@@ -109,6 +109,14 @@ profile_picture:
 </p>
 
 <p>
+<font color="black" face="微软正黑" size=3>2023, 周霖煜, 香港中文大学金融学博士, 毕业去向：香港理工大学博士后</font>
+</p>
+
+<p>
+<font color="black" face="微软正黑" size=3>2023, 耿晋哲, 香港中文大学金融学博士, 毕业去向：兴业银行FICC量化研究员（上海）</font>
+</p>
+
+<p>
 <font color="black" face="微软正黑" size=3>2022, 章维明, 香港中文大学金融学博士, 毕业去向：西班牙IE商学院助理教授</font>
 </p>
 <p>
