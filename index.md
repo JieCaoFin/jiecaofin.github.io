@@ -96,7 +96,7 @@ profile_picture:
 <font color="black" face="微软正黑" size=3>2024 – 至今, Financial Analysts Journal 《金融分析师》期刊编委</font>
 </p>
 <p>
-  <font color="black" face="微软正黑" size=3>2023 – 至今,  International Review of Finance《国际金融评论》期刊共同主编 (Editor)</font>
+  <font color="black" face="微软正黑" size=3>2023 – 至今,  International Review of Finance《国际金融评论》期刊共同主编 (Co-Editor)</font>
 </p>
 <p>
 <font color="black" face="微软正黑" size=3>2023 – 至今,  China Accounting and Finance Review《中国会计与财务研究》期刊编委 (Editor)</font>
