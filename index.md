@@ -95,14 +95,19 @@ profile_picture:
 
 <font color="black" face="微软正黑" size=3>2024 – 至今, Financial Analysts Journal 《金融分析师》期刊编委</font>
 </p>
+
+<p>
+<font color="black" face="微软正黑" size=3>2023 – 至今,  Asia-Pacific Journal of Financial Studies《亚太金融研究》期刊副主编 (Editor)</font>
+</p>
+
 <p>
   <font color="black" face="微软正黑" size=3>2023 – 至今,  International Review of Finance《国际金融评论》期刊共同主编 (Co-Editor)</font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>2023 – 至今,  China Accounting and Finance Review《中国会计与财务研究》期刊编委 (Editor)</font>
+<font color="black" face="微软正黑" size=3>2023 – 至今,  China Accounting and Finance Review《中国会计与财务研究》期刊主编 (Editor)</font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>2022 – 至今,  Financial Management《金融管理》期刊编委 (Associate Editor)</font>
+<font color="black" face="微软正黑" size=3>2022 – 至今,  Financial Management《金融管理》期刊副主编 (Associate Editor)</font>
 </p>
 <p>
 <b><font color="SteelBlue" face="微软正黑" size=4 class="aa">本硕博培养</font></b>
