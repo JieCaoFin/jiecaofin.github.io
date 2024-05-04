@@ -197,6 +197,9 @@ profile_picture:
 <b><font color="SteelBlue" face="微软正黑" size=4 class="aa">科研获奖</font></b>
 </p>
 <p>
+<font color="black" face="微软正黑" size=3>2023.07,	最佳大会报告论文,			第六届中国衍生品青年论坛,		广州</font>
+</p>
+<p>
 <font color="black" face="微软正黑" size=3>2022.07,	最佳会议论文奖,			第十八届亚太区金融衍生品协会年会 (APAD),		釜山</font>
 </p>
 <p>
