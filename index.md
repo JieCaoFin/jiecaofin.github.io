@@ -113,7 +113,7 @@ profile_picture:
 </p>
 
 <p>
-<font color="black" face="微软正黑" size=3>2023, 周霖煜, 香港中文大学金融学博士, 毕业去向：香港理工大学博士后</font>
+<font color="black" face="微软正黑" size=3>2023, 周霖煜, 香港中文大学金融学博士, 毕业去向：香港理工大学博士后  | 现任中央财经大学中国金融发展研究院助理教授</font>
 </p>
 
 <p>
