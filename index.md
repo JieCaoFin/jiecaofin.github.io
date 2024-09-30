@@ -130,7 +130,7 @@ profile_picture:
 <font color="black" face="微软正黑" size=3>2021, 徐婕, 香港中文大学金融学博士, 毕业去向：工银国际（香港）</font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>2018, 柯赛, 香港中文大学金融学硕士, 毕业去向：美国休斯顿大学金融学博士 | 现任美国密西西比大学Ole Miss商学院访问助理教授 </font>
+<font color="black" face="微软正黑" size=3>2018, 柯赛, 香港中文大学金融学硕士, 毕业去向：美国休斯顿大学金融学博士 | 现任美国加州州立大学长滩分校商学院助理教授 </font>
 </p>
 
 <p>
