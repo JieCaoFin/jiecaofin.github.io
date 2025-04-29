@@ -163,9 +163,9 @@ profile_picture:
 <p>
 <font color="black" face="微软正黑" size=3>1: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1786607" target="_blank">Cross Section of Option Returns and Idiosyncratic Stock Volatility</a> (with Bing Han), 2013, <strong> Journal of Financial Economics </strong> 108, 231-249.</font>
 </p>
-<p>
-<font color="black" face="微软正黑" size=3>2: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1291626" target="_blank">Idiosyncratic Risk, Costly Arbitrage, and the Cross-Section of Stock Returns</a> (with Bing Han),  2016, <strong> Journal of Banking and Finance</strong> 73, 1-15.</font>
-</p>
+%<p>
+%<font color="black" face="微软正黑" size=3>2: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1291626" target="_blank">Idiosyncratic Risk, Costly Arbitrage, and the Cross-Section of Stock Returns</a> (with Bing Han),  2016, <strong> Journal of Banking and Finance</strong> 73, 1-15.</font>
+%</p>
 <p>
 <font color="black" face="微软正黑" size=3>3: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2409609" target="_blank">Alliances and Return Predictability </a> (with Tarun Chordia and Chen Lin), 2016, <strong> Journal of Financial and Quantitative Analysis</strong> 51, 1689-1717. </font>
 </p>
