@@ -190,7 +190,7 @@ profile_picture:
 </p>
 
 <p>
-<font color="black" face="微软正黑" size=3>10: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3881497" target="_blank">Carbon Emissions, Mutual Fund Trading, and the Liquidity of Corporate Bonds </a> (with Yi Li, Linyu Zhou, Xintong Zhan, and Weiming Zhang), 2025, <strong> Management Science</strong> forthcoming.</font>
+<font color="black" face="微软正黑" size=3>10: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3881497" target="_blank">Carbon Emissions, Mutual Fund Trading, and the Liquidity of Corporate Bonds </a> (with Yi Li,  Xintong Zhan, Weiming Zhang, and Linyu Zhou), 2025, <strong> Management Science</strong> forthcoming.</font>
 </p>
 
 <p>
