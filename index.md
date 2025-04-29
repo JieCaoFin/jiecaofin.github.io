@@ -113,7 +113,7 @@ profile_picture:
 </p>
 
 <p>
-<font color="black" face="微软正黑" size=3>2023, 杨睿靖, 香港中文大学金融学博士, 毕业去向：香港理工大学博士后  | 现任澳门大学金融系助理教授</font>
+<font color="black" face="微软正黑" size=3>2023, 杨睿靖, 香港中文大学金融学博士, 毕业去向：香港理工大学博士后  | 拟任澳门大学金融系助理教授</font>
 </p>
 
 <p>
@@ -163,9 +163,6 @@ profile_picture:
 <p>
 <font color="black" face="微软正黑" size=3>1: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1786607" target="_blank">Cross Section of Option Returns and Idiosyncratic Stock Volatility</a> (with Bing Han), 2013, <strong> Journal of Financial Economics </strong> 108, 231-249.</font>
 </p>
-%<p>
-%<font color="black" face="微软正黑" size=3>2: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1291626" target="_blank">Idiosyncratic Risk, Costly Arbitrage, and the Cross-Section of Stock Returns</a> (with Bing Han),  2016, <strong> Journal of Banking and Finance</strong> 73, 1-15.</font>
-%</p>
 <p>
 <font color="black" face="微软正黑" size=3>3: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2409609" target="_blank">Alliances and Return Predictability </a> (with Tarun Chordia and Chen Lin), 2016, <strong> Journal of Financial and Quantitative Analysis</strong> 51, 1689-1717. </font>
 </p>
@@ -180,10 +177,6 @@ profile_picture:
 </p>
 <p>
 <font color="black" face="微软正黑" size=3>7: <a href="https://academic.oup.com/rfs/article-abstract/35/3/1394/6294944?redirectedFrom=fulltext&login=false" target="_blank"> Option Return Predictability</a> (with Xintong Zhan, Bing Han, and Qing Tong), 2022, <strong> Review of Financial Studies</strong> 35, 1394-1442.</font>
-</p>
-
-<p>
-<font color="black" face="微软正黑" size=3>8: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3401806" target="_blank">Option Price Implied Information and REIT Returns</a> (with Bing Han, Linjia Song, and Xintong Zhan), 2023, <strong> Journal of Empirical Finance</strong> 71, 13-28.</font>
 </p>
 
 <p>
