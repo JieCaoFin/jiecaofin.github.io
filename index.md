@@ -87,9 +87,7 @@ profile_picture:
 <p>
 <font color="black" face="微软正黑" size=3>2021 – 至今,  香港金融管理局金融研究院谘询委员</font>
 </p>
-<p>
-<font color="black" face="微软正黑" size=3>2018 – 至今,  芝加哥数量联盟(亚洲)协会理事</font>
-</p>
+
 <p>
 
 <font color="black" face="微软正黑" size=3>2024 – 至今, Financial Analysts Journal 《金融分析师》期刊编委</font>
@@ -113,7 +111,7 @@ profile_picture:
 </p>
 
 <p>
-<font color="black" face="微软正黑" size=3>2023, 杨睿靖, 香港中文大学金融学博士, 毕业去向：香港理工大学博士后  | 拟任澳门大学金融系助理教授</font>
+<font color="black" face="微软正黑" size=3>2023, 杨睿靖, 香港中文大学金融学博士, 毕业去向：香港理工大学博士后  | 澳门大学金融系助理教授</font>
 </p>
 
 <p>
