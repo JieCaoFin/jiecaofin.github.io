@@ -111,6 +111,10 @@ profile_picture:
 </p>
 
 <p>
+<font color="black" face="微软正黑" size=3>2023, 张尧迦, 香港中文大学金融学博士, 毕业去向：香港理工大学博士后 </font>
+</p>
+
+<p>
 <font color="black" face="微软正黑" size=3>2023, 杨睿靖, 香港中文大学金融学博士, 毕业去向：香港理工大学博士后  | 澳门大学金融系助理教授</font>
 </p>
 
