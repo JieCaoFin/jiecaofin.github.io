@@ -196,7 +196,7 @@ profile_picture:
 </p>
 
 <p>
-<font color="black" face="微软正黑" size=3>9: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3878123" target="_blank">Unlocking ESG Premium from Options</a> (with Amit Goyal, Xintong Zhan, and Weiming Zhang), 2025, <strong> Journal of Financial and Quantitative Analysis</strong> forthcoming. </font>
+<font color="black" face="微软正黑" size=3>11: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3878123" target="_blank">Unlocking ESG Premium from Options</a> (with Amit Goyal, Xintong Zhan, and Weiming Zhang), 2025, <strong> Journal of Financial and Quantitative Analysis</strong> forthcoming. </font>
 </p>
 
 <p>
