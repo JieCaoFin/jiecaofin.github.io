@@ -42,10 +42,8 @@ profile_picture:
 <b><font color="SteelBlue" face="微软正黑" size=4 class="aa">个人简介</font></b>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>曹杰教授现任香港理工大学会计与金融学院正教授, 博士生导师。他亦担任香港证监会学术评审谘询委员会委员, 香港金融管理局金融研究院谘询委员，以及联合国可持续证券交易所倡议组织学术委员。在加入香港理工大学之前, 曹杰教授曾执教于香港中文大学商学院并获得终身教职。曹杰教授于2002年获得北京大学经济学学士学位, 并于2009年在美国德克萨斯大学奥斯汀分校获得金融学博士学位。他的研究领域为实证资产定价、金融衍生品、以及可持续金融等。他的研究成果见诸于 Journal of Financial Economics, Review of Financial Studies, Journal of Financial and Quantitative Analysis, Management Science 等顶级金融学及管理学期刊。他多次获得香港研究局的项目资助，并获得瑞士日内瓦财富研究院、加拿大衍生品研究院等多个海外科研机构的研究支持。
-
-
-  曹杰教授现任香港理工大学会计与金融学院教授、博士生导师，同时担任香港证券及期货事务监察委员会学术评审咨询委员会委员、香港金融管理局金融研究院咨询委员，以及联合国可持续证券交易所倡议组织学术委员。在加入香港理工大学之前，曹杰教授曾任教于香港中文大学商学院，并获终身教职。曹教授于2002年获得北京大学经济学学士学位，并于2009年获美国德克萨斯大学奥斯汀分校金融学博士学位。曹杰教授的研究领域主要包括实证资产定价、金融衍生品及可持续金融等。其研究成果发表于 Journal of Financial Economics、Review of Financial Studies、Journal of Financial and Quantitative Analysis、Management Science 等国际顶尖金融学与管理学期刊。此外，曹教授获委任为香港研究评审工作（RAE）2026 商业与经济学小组成员。他曾多次获得香港研究资助局项目资助，并得到瑞士日内瓦财富研究院、加拿大衍生品研究院等多个海外科研机构的研究支持。
+<font color="black" face="微软正黑" size=3>
+曹杰教授现任香港理工大学会计与金融学院教授、博士生导师，同时担任香港证券及期货事务监察委员会学术评审咨询委员会委员、香港金融管理局金融研究院咨询委员，以及联合国可持续证券交易所倡议组织学术委员。在加入香港理工大学之前，曹杰教授曾任教于香港中文大学商学院，并获终身教职。曹教授于2002年获得北京大学经济学学士学位，并于2009年获美国德克萨斯大学奥斯汀分校金融学博士学位。曹杰教授的研究领域主要包括实证资产定价、金融衍生品及可持续金融等。其研究成果发表于 Journal of Financial Economics、Review of Financial Studies、Journal of Financial and Quantitative Analysis、Management Science 等国际顶尖金融学与管理学期刊。此外，曹教授获委任为香港研究评审工作（RAE）2026 商业与经济学小组成员。他曾多次获得香港研究资助局项目资助，并得到瑞士日内瓦财富研究院、加拿大衍生品研究院等多个海外科研机构的研究支持。
 <p>
 曹杰教授现任国际知名金融期刊 International Review of Finance 的共同主编，并担任国际权威期刊 Financial Management 与 Pacific-Basin Finance Journal 的副主编。他还兼任 CFA 旗下业界重要期刊 Financial Analysts Journal 的编委会成员，同时是香港研究资助局和加拿大社会科学与人文研究理事会的外审专家，并长期为多本国际一流期刊承担评审工作。
 </p>
