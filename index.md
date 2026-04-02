@@ -99,6 +99,10 @@ profile_picture:
 </p>
 
 <p>
+<font color="black" face="微软正黑" size=3>2026 – 至今,  Pacific-Basin Finance Journal《环太平洋金融期刊》期刊副主编 (Editor)</font>
+</p>
+
+<p>
 <font color="black" face="微软正黑" size=3>2024 – 至今,  Asia-Pacific Journal of Financial Studies《亚太金融研究》期刊副主编 (Editor)</font>
 </p>
 
