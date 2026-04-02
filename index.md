@@ -196,8 +196,13 @@ profile_picture:
 </p>
 
 <p>
-<font color="black" face="微软正黑" size=3>11: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3878123" target="_blank">Unlocking ESG Premium from Options</a> (with Amit Goyal, Xintong Zhan, and Weiming Zhang), 2025, <strong> Journal of Financial and Quantitative Analysis</strong> forthcoming. </font>
+<font color="black" face="微软正黑" size=3>11: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3878123" target="_blank">Unlocking ESG Premium from Options</a> (with Amit Goyal, Xintong Zhan, and Weiming Zhang), 2026, <strong> Journal of Financial and Quantitative Analysis</strong> forthcoming. </font>
 </p>
+
+<p>
+<font color="black" face="微软正黑" size=3>11: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3878123" target="_blank">Betting Against the Crowd: Option Trading and Market Risk Premium </a> (with Gang Li, Xintong Zhan, and Guofu Zhou), 2026, <strong> Journal of Financial and Quantitative Analysis</strong> forthcoming. </font>
+</p>
+
 
 <p>
 <b><font color="SteelBlue" face="微软正黑" size=4 class="aa">科研获奖</font></b>
