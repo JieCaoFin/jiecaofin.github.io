@@ -181,7 +181,7 @@ profile_picture:
 <font color="black" face="微软正黑" size=3>3: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=628683" target="_blank">Institutional Investment Constraints and Stock Prices</a>(with Bing Han and Qinghai Wang), 2017, <strong> Journal of Financial and Quantitative Analysis</strong> 52, 465-489.</font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>4: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2634100" target="_blank">Peer Effects of Corporate Social Responsibility </a> (with Hao Liang and Xintong Zhan), 2019, <strong> Management Science</strong> 65, 5487–5503.</font>
+<font color="black" face="微软正黑" size=3>4: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2634100" target="_blank">Peer Effects of Corporate Social Responsibility </a> (with Hao Liang and Xintong Zhan), 2019, <strong> Management Science</strong> 65, 5487-5503.</font>
 </p>
 <p>
 <font color="black" face="微软正黑" size=3>5: <a href="https://pubsonline.informs.org/doi/10.1287/mnsc.2020.3803" target="_blank"> The Calendar Effects of the Idiosyncratic-Volatility Puzzle: A Tale of Two Days?</a> (with Tarun Chordia and Xintong Zhan), 2021, <strong> Management Science</strong> 67, 7866-7887.</font>
