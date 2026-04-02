@@ -115,7 +115,7 @@ profile_picture:
 </p>
 
 <p>
-<font color="black" face="微软正黑" size=3>2024, 杨睿靖, 香港中文大学金融学博士, 毕业去向：香港理工大学博士后  | 现任澳门大学金融系助理教授</font>
+<font color="black" face="微软正黑" size=3>2024, 杨睿靖, 香港中文大学金融学博士, 毕业去向：香港理工大学博士后  | 现任澳门大学工商管理学院金融系助理教授</font>
 </p>
 
 <p>
@@ -130,7 +130,7 @@ profile_picture:
 <font color="black" face="微软正黑" size=3>2022, 章维明, 香港中文大学金融学博士, 毕业去向：西班牙IE商学院助理教授</font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>2022, 宋琳甲, 香港中文大学金融及房地产博士, 毕业去向：厦门大学管理学院助理教授</font>
+<font color="black" face="微软正黑" size=3>2022, 宋琳甲, 香港中文大学金融及房地产博士, 毕业去向：厦门大学管理学院财务学系助理教授</font>
 </p>
 <p>
 <font color="black" face="微软正黑" size=3>2021, 徐婕, 香港中文大学金融学博士, 毕业去向：工银国际（香港）</font>
