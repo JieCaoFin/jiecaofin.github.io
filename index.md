@@ -111,7 +111,7 @@ profile_picture:
 </p>
 
 <p>
-<font color="black" face="微软正黑" size=3>2025, 张尧迦, 香港中文大学金融学博士, 毕业去向：香港理工大学博士后 </font>
+<font color="black" face="微软正黑" size=3>2025, 张尧迦, 香港中文大学金融学博士, 毕业去向：香港理工大学博士后 | 现任中国人民大学商学院财务金融系助理教授 </font>
 </p>
 
 <p>
@@ -192,7 +192,7 @@ profile_picture:
 </p>
 
 <p>
-<font color="black" face="微软正黑" size=3>10: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3881497" target="_blank">Carbon Emissions, Mutual Fund Trading, and the Liquidity of Corporate Bonds </a> (with Yi Li,  Xintong Zhan, Weiming Zhang, and Linyu Zhou), 2025, <strong> Management Science</strong> forthcoming.</font>
+<font color="black" face="微软正黑" size=3>10: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3881497" target="_blank">Carbon Emissions, Mutual Fund Trading, and the Liquidity of Corporate Bonds </a> (with Yi Li,  Xintong Zhan, Weiming Zhang, and Linyu Zhou), 2025, <strong> Management Science</strong> 72, 1959-1986.</font>
 </p>
 
 <p>
