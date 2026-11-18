@@ -48,7 +48,7 @@ profile_picture:
 曹教授的研究聚焦于实证资产定价、金融衍生品及可持续金融，多项研究成果发表于 Journal of Financial Economics、Review of Financial Studies、Journal of Financial and Quantitative Analysis、Management Science 等国际顶尖期刊。他曾多次获香港研究资助局（RGC）项目资助，并获得瑞士日内瓦财富研究院、加拿大衍生品研究院等海外机构的研究支持。
 </p>
 <p>
-在学术服务方面，曹教授获委任为香港2026年研究评审工作（RAE）商业与经济学小组成员，担任香港研究资助局及加拿大社会科学与人文研究理事会（SSHRC）外审专家。同时，他现任 International Review of Finance 共同主编，Financial Management 与 Pacific-Basin Finance Journal 副主编，CFA协会旗下 Financial Analysts Journal 编委会成员，并长期担任多本国际一流期刊审稿人。
+在学术服务方面，曹教授获委任为香港2026年研究评审工作（RAE）商业与经济学小组成员，担任香港研究资助局及加拿大社会科学与人文研究理事会外审专家。同时，他现任 International Review of Finance 共同主编，Financial Management 与 Pacific-Basin Finance Journal 副主编，CFA协会旗下 Financial Analysts Journal 编委会成员，并长期担任多本国际一流期刊审稿人。
 </p>
 <p>
 <b><font color="SteelBlue" face="微软正黑" size=4 class="aa">教育背景</font></b>
