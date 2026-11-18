@@ -81,7 +81,12 @@ profile_picture:
 </p>
 
 <p>
-<font color="black" face="微软正黑" size=3>2026 – 至今,     香港大学教育资助委员会2026研究评审工作商业经济小组成员
+<font color="black" face="微软正黑" size=3>2026 – 至今,     亚洲经济金融研究局（ABFER）研究员
+
+</font>
+
+<p>
+<font color="black" face="微软正黑" size=3>2026 – 2026,     香港大学教育资助委员会2026研究评审工作商业经济小组成员
 
 </font>
 </p>
